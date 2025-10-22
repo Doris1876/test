@@ -14,7 +14,6 @@ It includes basic scripts, models, and configuration examples used to validate e
 
 ## Usage
 
-1. **Clone this repo**
+1. **test**
    ```bash
-   git clone git@github.com:Doris1876/test.git
-   cd test
+   test
